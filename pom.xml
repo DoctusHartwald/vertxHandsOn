@@ -8,7 +8,7 @@
     <artifactId>vertx</artifactId>
     <version>1.0</version>
     <properties>
-        <vertx.version>3.8.2</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
     </properties>
 
     <build>
